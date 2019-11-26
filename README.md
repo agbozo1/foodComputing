@@ -18,4 +18,7 @@ The following libraries are essential to running the algorithms
 * library(tidyr)
 * library(udpipe)
 
-
+Dataset source : 
+Yummly 66k (*W. Min, B. K. Bao, S. Mei, Y. Zhu, Y. Rui, and S. Jiang. 2018a. You are what you eat: Exploring rich recipe information for cross-region food analysis. IEEE
+Transactions on Multimedia 20, 4 (2018), 950–964.*) 
+http://isia.ict.ac.cn/dataset/Yummly-66K.html. 
