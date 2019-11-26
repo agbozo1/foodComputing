@@ -23,8 +23,10 @@ The following libraries are essential to running the algorithms
 2. American Cusisines (_usa-cuisines-algorithm.R_) 
 
 The called function (i.e. the last line of code) is where the magic happens
-*top_terms_by_topic_LDA(c_l_ean_POS$lemma, number_of_topics = 5, plottitle = "Top Adjectives associated with Salads in Mexican Cuisines")    #lemma topics plot*
-
+```
+top_terms_by_topic_LDA(c_l_ean_POS$lemma, number_of_topics = 5, plottitle = "Top Adjectives associated with Salads in Mexican Cuisines")  
+#lemma topics plot
+```
 Dataset source : 
 Yummly 66k (*W. Min, B. K. Bao, S. Mei, Y. Zhu, Y. Rui, and S. Jiang. 2018a. You are what you eat: Exploring rich recipe information for cross-region food analysis. IEEE
 Transactions on Multimedia 20, 4 (2018), 950–964.*) 
