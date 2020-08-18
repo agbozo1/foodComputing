@@ -1,10 +1,11 @@
-﻿unit
+unit
 teaspoon
 teaspoons
 tablespoons
 temp
 temperature
 tsp
+tbs
 tbsp
 tsps
 tbsps
@@ -56,3 +57,6 @@ about
 half
 one
 quarter
+whole
+ounces
+ounce

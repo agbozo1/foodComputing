@@ -1,7 +1,9 @@
-﻿terms
+terms
 across
 aerate
 age
+bag
+ball
 bake
 barbecue
 baste
@@ -28,6 +30,7 @@ char
 char-broil
 chill
 chop
+chopped
 chunk
 churn
 clarify
@@ -64,6 +67,8 @@ flavor
 flip
 fold
 freeze
+fresh
+frozen
 French fry
 fricassee
 frost
@@ -77,6 +82,7 @@ gratin
 grease
 grill
 grind
+halved
 hard boil
 harden
 hash
